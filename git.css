@@ -1,0 +1,133 @@
+* {
+    margin:0;
+    padding:0;
+}
+#wrapper {
+    background: #dddfd4;
+    font-family: sans-serif;
+    padding: 20px;
+    width: 950px;
+}
+#topbar {
+    background: #38b0ad;
+    display: inline-block;
+    width: 940px;
+    margin-bottom:20px;
+}
+#topbar ul li {
+    text-decoration: underline;
+    color:white;
+    display: inline-block;
+    font-size: 10pt;
+    margin-right: 10px;
+    height: 30px;
+}
+#topbar ul {
+    display: inline-block;
+    margin-left:200px;
+}
+#topbar h1{
+    display: inline-block;
+}
+#gitpic {
+    display: inline-block;
+    width: 30px;
+    position: relative; 
+    top:5px;
+    left:5px;
+}
+#main {
+    background: #fbe691;
+    padding:20px;
+    width: 900px;
+    margin-bottom: 10px;
+}
+#leftbar {
+    width:200px;
+    height:510px;
+    padding: 10px;
+    display: inline-block;
+    background:#153f43;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    color: white;
+}
+#mainright {
+    vertical-align: top;
+    width: 650px;
+    height: 500px;
+    display: inline-block;
+}
+#box1 {
+    display: inline-block;
+    background: #153f43;
+    width:150px;
+    height:150px;
+    vertical-align: top;
+    margin-right:50px;
+    margin-left: 20px;
+    color: white;
+    padding:10px;
+}
+#box2 {
+    display: inline-block;
+    background: #153f43;
+    width:150px;
+    height:150px;
+    vertical-align: top;   
+    margin-right:50px; 
+    color: white;
+    padding:10px;
+}
+#box3 {
+    display: inline-block;
+    background: #153f43;
+    width:150px;
+    height:150px;
+    vertical-align: top;
+    color: white;
+    padding:10px;
+}
+#midleft {
+    width:280px;
+    height:150px;
+    background: #153f43;
+    display: inline-block;
+    vertical-align: top;
+    color:white;
+    margin: 20px;
+    padding:10px;
+}
+#midright {
+    width:280px;
+    height:150px;
+    background: #153f43;
+    display: inline-block;
+    vertical-align: top;
+    color:white;
+    margin: 20px 0px 20px 0px;
+    padding:10px;
+}
+#bottombox {
+    display: inline-block;
+    width: 600px;
+    margin-left: 20px;
+    margin-top:10px;
+    background: #153f43;
+    color:white;
+    padding:10px;
+}
+#bottom {
+    background: #38b0ad;
+    width:940px;
+    height:70px;
+}
+#bottom p {
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: 25px;
+}
+#bottom a {
+    color:purple;
+}
